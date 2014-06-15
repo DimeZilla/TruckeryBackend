@@ -1,0 +1,9 @@
+Truckery BackEnd
+
+This program connects to the Twitter Rest API and retrieves newsfeed data set up to track the DC foodtrucks.
+
+Dependencies:
+
+TwitterAPI: https://github.com/geduldig/TwitterAPI
+psycopg2 - for connecting to the local postgres database
+PostGres SQL Database
